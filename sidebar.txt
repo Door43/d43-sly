@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sly:home|Door43 (sly)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sly|d43-sly repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sly/archive/master.zip|d43-sly.zip]]
+
+**Recent Changes**
+{{changes>ns = sly}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sly|Ethnologue data]]
+
